@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670313560 source:d:\data structure prgms\stack program\main.cpp
+	<iostream>
+	<stdlib.h>
+
