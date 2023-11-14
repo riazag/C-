@@ -1,0 +1,15 @@
+C:\Users\RIAZ\helloWorld\C# work\DateTImes\bin\Debug\net6.0\DateTImes.exe
+C:\Users\RIAZ\helloWorld\C# work\DateTImes\bin\Debug\net6.0\DateTImes.deps.json
+C:\Users\RIAZ\helloWorld\C# work\DateTImes\bin\Debug\net6.0\DateTImes.runtimeconfig.json
+C:\Users\RIAZ\helloWorld\C# work\DateTImes\bin\Debug\net6.0\DateTImes.dll
+C:\Users\RIAZ\helloWorld\C# work\DateTImes\bin\Debug\net6.0\DateTImes.pdb
+C:\Users\RIAZ\helloWorld\C# work\DateTImes\obj\Debug\net6.0\DateTImes.csproj.AssemblyReference.cache
+C:\Users\RIAZ\helloWorld\C# work\DateTImes\obj\Debug\net6.0\DateTImes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIAZ\helloWorld\C# work\DateTImes\obj\Debug\net6.0\DateTImes.AssemblyInfoInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\DateTImes\obj\Debug\net6.0\DateTImes.AssemblyInfo.cs
+C:\Users\RIAZ\helloWorld\C# work\DateTImes\obj\Debug\net6.0\DateTImes.csproj.CoreCompileInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\DateTImes\obj\Debug\net6.0\DateTImes.dll
+C:\Users\RIAZ\helloWorld\C# work\DateTImes\obj\Debug\net6.0\refint\DateTImes.dll
+C:\Users\RIAZ\helloWorld\C# work\DateTImes\obj\Debug\net6.0\DateTImes.pdb
+C:\Users\RIAZ\helloWorld\C# work\DateTImes\obj\Debug\net6.0\DateTImes.genruntimeconfig.cache
+C:\Users\RIAZ\helloWorld\C# work\DateTImes\obj\Debug\net6.0\ref\DateTImes.dll

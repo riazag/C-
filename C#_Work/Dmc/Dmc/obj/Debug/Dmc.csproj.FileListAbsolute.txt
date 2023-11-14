@@ -1,0 +1,8 @@
+C:\Users\RIAZ\helloWorld\C# work\Dmc\Dmc\bin\Debug\Dmc.exe.config
+C:\Users\RIAZ\helloWorld\C# work\Dmc\Dmc\bin\Debug\Dmc.exe
+C:\Users\RIAZ\helloWorld\C# work\Dmc\Dmc\bin\Debug\Dmc.pdb
+C:\Users\RIAZ\helloWorld\C# work\Dmc\Dmc\obj\Debug\Dmc.csproj.AssemblyReference.cache
+C:\Users\RIAZ\helloWorld\C# work\Dmc\Dmc\obj\Debug\Dmc.csproj.SuggestedBindingRedirects.cache
+C:\Users\RIAZ\helloWorld\C# work\Dmc\Dmc\obj\Debug\Dmc.csproj.CoreCompileInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\Dmc\Dmc\obj\Debug\Dmc.exe
+C:\Users\RIAZ\helloWorld\C# work\Dmc\Dmc\obj\Debug\Dmc.pdb

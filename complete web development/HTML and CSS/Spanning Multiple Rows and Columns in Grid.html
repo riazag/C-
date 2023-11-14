@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Spanning Multiple Rows and Columns in Grid</title>
+  </head>
+  <style>
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      grid-column-gap: 7px;
+      grid-row-gap: 5px;
+    }
+    .items {
+      background: #3df5e2;
+      border: 2px solid red;
+      padding: 23px;
+    }
+    .items:first-child {
+      /* grid-row-start: 1;
+      grid-row-end: 3; */
+      grid-row: 1 / span 3;
+      /* grid-column-start: 1;
+      grid-column-end: 3; */
+      grid-column: 1 / span 3;
+    }
+  </style>
+  <body>
+    <div class="grid">
+      <div class="items">this is item-1</div>
+      <div class="items">this is item-2</div>
+      <div class="items">this is item-3</div>
+      <div class="items">this is item-4</div>
+      <div class="items">this is item-5</div>
+      <div class="items">this is item-6</div>
+      <div class="items">this is item-7</div>
+      <div class="items">this is item-8</div>
+      <div class="items">this is item-9</div>
+      <div class="items">this is item-10</div>
+      <div class="items">this is item-11</div>
+      <div class="items">this is item-12</div>
+      <div class="items">this is item-13</div>
+      <div class="items">this is item-14</div>
+      <div class="items">this is item-15</div>
+    </div>
+  </body>
+</html>

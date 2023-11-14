@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>setInterval & setTimeOut</title>
+  </head>
+  <body>
+    <div class="container">Time now is <span id="time"></span></div>
+    <script>
+      console.log("helloooo");
+      function show() {
+        console.log("How are are You");
+      }
+      // setTimeout(show, 7000);
+      // timeout = setTimeout(show, 7000);
+      // console.log(timeout);
+      // clearTimeout(timeout);
+      // setInterval(show, 2000);
+
+      // function Time() {
+      //   time = new Date();
+      //   console.log(time);
+      //   document.getElementById("time").innerHTML = time;
+      // }
+      // setInterval(Time, 1000);
+
+      function displayTime() {
+        time = new Date();
+        console.log(time);
+        document.getElementById("time").innerHTML = time;
+      }
+      setInterval(displayTime, 1000);
+    </script>
+  </body>
+</html>

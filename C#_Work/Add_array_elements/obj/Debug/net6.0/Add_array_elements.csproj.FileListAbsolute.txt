@@ -1,0 +1,15 @@
+C:\Users\RIAZ\helloWorld\C# work\Add_array_elements\obj\Debug\net6.0\Add_array_elements.csproj.AssemblyReference.cache
+C:\Users\RIAZ\helloWorld\C# work\Add_array_elements\obj\Debug\net6.0\Add_array_elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIAZ\helloWorld\C# work\Add_array_elements\obj\Debug\net6.0\Add_array_elements.AssemblyInfoInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\Add_array_elements\obj\Debug\net6.0\Add_array_elements.AssemblyInfo.cs
+C:\Users\RIAZ\helloWorld\C# work\Add_array_elements\obj\Debug\net6.0\Add_array_elements.csproj.CoreCompileInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\Add_array_elements\bin\Debug\net6.0\Add_array_elements.exe
+C:\Users\RIAZ\helloWorld\C# work\Add_array_elements\bin\Debug\net6.0\Add_array_elements.deps.json
+C:\Users\RIAZ\helloWorld\C# work\Add_array_elements\bin\Debug\net6.0\Add_array_elements.runtimeconfig.json
+C:\Users\RIAZ\helloWorld\C# work\Add_array_elements\bin\Debug\net6.0\Add_array_elements.dll
+C:\Users\RIAZ\helloWorld\C# work\Add_array_elements\bin\Debug\net6.0\Add_array_elements.pdb
+C:\Users\RIAZ\helloWorld\C# work\Add_array_elements\obj\Debug\net6.0\Add_array_elements.dll
+C:\Users\RIAZ\helloWorld\C# work\Add_array_elements\obj\Debug\net6.0\refint\Add_array_elements.dll
+C:\Users\RIAZ\helloWorld\C# work\Add_array_elements\obj\Debug\net6.0\Add_array_elements.pdb
+C:\Users\RIAZ\helloWorld\C# work\Add_array_elements\obj\Debug\net6.0\Add_array_elements.genruntimeconfig.cache
+C:\Users\RIAZ\helloWorld\C# work\Add_array_elements\obj\Debug\net6.0\ref\Add_array_elements.dll

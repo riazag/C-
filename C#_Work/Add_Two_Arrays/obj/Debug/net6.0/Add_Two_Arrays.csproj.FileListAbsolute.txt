@@ -1,0 +1,15 @@
+C:\Users\RIAZ\helloWorld\C# work\Add_Two_Arrays\bin\Debug\net6.0\Add_Two_Arrays.exe
+C:\Users\RIAZ\helloWorld\C# work\Add_Two_Arrays\bin\Debug\net6.0\Add_Two_Arrays.deps.json
+C:\Users\RIAZ\helloWorld\C# work\Add_Two_Arrays\bin\Debug\net6.0\Add_Two_Arrays.runtimeconfig.json
+C:\Users\RIAZ\helloWorld\C# work\Add_Two_Arrays\bin\Debug\net6.0\Add_Two_Arrays.dll
+C:\Users\RIAZ\helloWorld\C# work\Add_Two_Arrays\bin\Debug\net6.0\Add_Two_Arrays.pdb
+C:\Users\RIAZ\helloWorld\C# work\Add_Two_Arrays\obj\Debug\net6.0\Add_Two_Arrays.csproj.AssemblyReference.cache
+C:\Users\RIAZ\helloWorld\C# work\Add_Two_Arrays\obj\Debug\net6.0\Add_Two_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIAZ\helloWorld\C# work\Add_Two_Arrays\obj\Debug\net6.0\Add_Two_Arrays.AssemblyInfoInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\Add_Two_Arrays\obj\Debug\net6.0\Add_Two_Arrays.AssemblyInfo.cs
+C:\Users\RIAZ\helloWorld\C# work\Add_Two_Arrays\obj\Debug\net6.0\Add_Two_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\Add_Two_Arrays\obj\Debug\net6.0\Add_Two_Arrays.dll
+C:\Users\RIAZ\helloWorld\C# work\Add_Two_Arrays\obj\Debug\net6.0\refint\Add_Two_Arrays.dll
+C:\Users\RIAZ\helloWorld\C# work\Add_Two_Arrays\obj\Debug\net6.0\Add_Two_Arrays.pdb
+C:\Users\RIAZ\helloWorld\C# work\Add_Two_Arrays\obj\Debug\net6.0\Add_Two_Arrays.genruntimeconfig.cache
+C:\Users\RIAZ\helloWorld\C# work\Add_Two_Arrays\obj\Debug\net6.0\ref\Add_Two_Arrays.dll

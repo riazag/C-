@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Event listenning</title>
+    <style>
+      #btn {
+        background: red;
+        color: black;
+        padding: 10px 14px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="para">
+      <h1>This is hidding</h1>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero possimus
+      laudantium laborum minus, ea a ullam. Modi, dolorum temporibus, eveniet
+      tempore est error optio enim ratione, libero ex corrupti cum voluptas
+      omnis beatae consequatur minima officia. Voluptates odit soluta placeat id
+      quos. Voluptatibus hic at nostrum quaerat eum iste ratione.
+    </div>
+    <button id="btn" onclick="toggleHide()">Hide/Show</button>
+    <script>
+      function toggleHide() {
+        // let btn = document.getElementById("btn");
+        let para = document.getElementById("para");
+        if (para.style.display != "none") {
+          para.style.display = "none";
+        } else {
+          para.style.display = "block";
+        }
+      }
+    </script>
+  </body>
+</html>

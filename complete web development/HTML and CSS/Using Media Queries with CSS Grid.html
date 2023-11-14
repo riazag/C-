@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Using Media Queries with CSS Grid</title>
+  </head>
+  <style>
+    .container {
+      display: grid;
+      grid-gap: 1rem;
+      grid-template-areas:
+        "navbar navbar navbar navbar"
+        "section section section aside"
+        "footer footer footer footer ";
+    }
+
+    @media only screen and (max-width: 300px) {
+      body {
+        background: grey;
+      }
+      .container {
+        grid-template-areas:
+          "navbar navbar navbar navbar"
+          "section section section section"
+          " aside aside aside aside"
+          "footer footer footer footer ";
+      }
+      aside {
+        display: none;
+      }
+      span {
+        display: block;
+      }
+    }
+    @media only screen and (min-width: 300px) and (max-width: 500px) {
+      body {
+        background: rgb(211, 133, 133);
+      }
+      .container {
+        grid-template-areas:
+          "navbar navbar navbar navbar"
+          "section section section section"
+          " aside aside aside aside"
+          "footer footer footer footer ";
+      }
+      p {
+        display: none;
+      }
+    }
+    @media only screen and (min-width: 500px) and (max-width: 700px) {
+      body {
+        background: rgb(133, 70, 179);
+      }
+      .container {
+        grid-template-areas:
+          "navbar navbar navbar navbar"
+          "section section section section"
+          " aside aside aside aside"
+          "footer footer footer footer ";
+      }
+      aside p {
+        display: none;
+      }
+    }
+    @media only screen and (min-width: 700px) {
+      body {
+        background: rgb(135, 87, 39);
+      }
+    }
+    nav {
+      grid-area: navbar;
+    }
+
+    section {
+      grid-area: section;
+    }
+
+    aside {
+      grid-area: aside;
+    }
+
+    footer {
+      grid-area: footer;
+      text-align: center;
+    }
+    .item {
+      border: 2px solid black;
+      padding: 10px 23px;
+      background-color: wheat;
+    }
+  </style>
+  <body>
+    <div class="container">
+      <nav class="item">
+        <span>Home</span>
+        <span>Services</span>
+        <span>About</span>
+        <span>Contact</span>
+      </nav>
+      <section class="item">
+        <h2>Learn css</h2>
+        <p>
+          Lorem ipsum dolorlorem40 sit amet consectetur Lorem, ipsum dolor sit
+          amet consectetur adipisicing Lorem ipsum dolor sit amet consectetur
+          adipisicing elit. Necessitatibus nam sint quos ipsum velit eaque
+          labore placeat natus dolorem doloribus reiciendis numquam officia
+          maxime non obcaecati, provident molestias ducimus iusto. Lorem ipsum
+          dolor sit amet, consectetur adipisicing elit. Impedit quod dolore ad,
+          sint nam saepe distinctio eligendi ea quia hic at iure minima unde est
+          velit aspernatur cumque laudantium quasi tempore nulla. Voluptates,
+          nihil!elit. Pariatur vitae corporis cupiditate aliquid excepturi.
+          Fugiat facilis, libero voluptatum sunt neque nesciunt blanditiis illum
+          aspernatur quod Lorem ipsum dolor sit amet consectetur adipisicing
+          elit. Ullam voluptate adipisci neque dolorum dicta a quasi inventore
+          eos reprehenderit consequuntur sunt commodi, laboriosam sapiente
+          fugiat magnam quibusdam quidem expedita hic.ullam modi sequi
+          laboriosam nostrum! adipisicing elit. Ea, iusto.
+        </p>
+      </section>
+      <aside class="item">
+        More About Us
+        <p>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quisquam aut
+          sint saepe et? Vero iusto soluta aliquid modi nostrum suscipit
+          consequatur corrupti est? Recusandae hic reiciendis quas eum tempore!
+        </p>
+      </aside>
+      <footer class="item">@codeWithHarry</footer>
+    </div>
+  </body>
+</html>

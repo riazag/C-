@@ -1,0 +1,15 @@
+C:\Users\RIAZ\helloWorld\C# work\workingWithString\bin\Debug\net6.0\workingWithString.exe
+C:\Users\RIAZ\helloWorld\C# work\workingWithString\bin\Debug\net6.0\workingWithString.deps.json
+C:\Users\RIAZ\helloWorld\C# work\workingWithString\bin\Debug\net6.0\workingWithString.runtimeconfig.json
+C:\Users\RIAZ\helloWorld\C# work\workingWithString\bin\Debug\net6.0\workingWithString.dll
+C:\Users\RIAZ\helloWorld\C# work\workingWithString\bin\Debug\net6.0\workingWithString.pdb
+C:\Users\RIAZ\helloWorld\C# work\workingWithString\obj\Debug\net6.0\workingWithString.csproj.AssemblyReference.cache
+C:\Users\RIAZ\helloWorld\C# work\workingWithString\obj\Debug\net6.0\workingWithString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIAZ\helloWorld\C# work\workingWithString\obj\Debug\net6.0\workingWithString.AssemblyInfoInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\workingWithString\obj\Debug\net6.0\workingWithString.AssemblyInfo.cs
+C:\Users\RIAZ\helloWorld\C# work\workingWithString\obj\Debug\net6.0\workingWithString.csproj.CoreCompileInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\workingWithString\obj\Debug\net6.0\workingWithString.dll
+C:\Users\RIAZ\helloWorld\C# work\workingWithString\obj\Debug\net6.0\refint\workingWithString.dll
+C:\Users\RIAZ\helloWorld\C# work\workingWithString\obj\Debug\net6.0\workingWithString.pdb
+C:\Users\RIAZ\helloWorld\C# work\workingWithString\obj\Debug\net6.0\workingWithString.genruntimeconfig.cache
+C:\Users\RIAZ\helloWorld\C# work\workingWithString\obj\Debug\net6.0\ref\workingWithString.dll

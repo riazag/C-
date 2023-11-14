@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Attribute & nth child pseudo Selectors |</title>
+    <style>
+      .container {
+        border: 2px solid blue;
+        background: #897171;
+        height: 600px;
+        width: 70%;
+        display: block;
+        margin: auto;
+      }
+      form {
+        display: block;
+        margin: auto;
+        width: 22%;
+      }
+      input {
+        display: block;
+      }
+      input[type="text"] {
+        padding: 10px;
+        border: 3px purple;
+        margin: 5px;
+      }
+      input[type="email"] {
+        padding: 10px;
+        border: 4px rgb(44, 6, 44);
+        margin: 5px;
+      }
+      ul {
+        display: block;
+        width: 20%;
+        margin: auto;
+        color: white;
+      }
+      a[target] {
+        color: aqua;
+      }
+      a[target="_self"] {
+        color: blueviolet;
+      }
+      li:nth-child(3) {
+        color: brown;
+      }
+      li:nth-child(even) {
+        color: rgb(79, 215, 16);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <form action="" class="form-control">
+        <input type="text" placeholder="Enter Your Name" />
+        <input type="password" placeholder="Enter Your password" />
+        <input type="Email" placeholder="Enter Your email" />
+        <input type="Submit" placeholder="Enter Your Submit" />
+      </form>
+      <h1><a href="http://google.com">Go to Google</a></h1>
+      <ul>
+        <li><a href="" target="_self">this is khan</a></li>
+        <li><a href="" target="#">this is khan</a></li>
+        <li>This is ......</li>
+        <li>This is ..</li>
+        <li>This is ......</li>
+        <li>This is .....</li>
+      </ul>
+    </div>
+  </body>
+</html>

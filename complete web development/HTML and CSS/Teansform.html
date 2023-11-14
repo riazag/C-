@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tranform properties</title>
+    <style>
+      .container {
+        display: flex;
+        background: #7456ec;
+        border: 2px solid greenyellow;
+        align-items: center;
+        justify-content: center;
+        height: 80vh;
+      }
+      .box {
+        display: flex;
+        background: Red;
+        border: 2px solid blue;
+        align-items: center;
+        justify-content: center;
+        height: 300px;
+        width: 300px;
+        color: rgb(3, 65, 66);
+        font-size: x-large;
+        border-radius: 8px;
+        /* transform: rotate(45deg);
+        transform: skew(30deg);
+        transform: all 1s ease-in-out; */
+      }
+      .box:hover {
+        transform: rotate(45deg);
+        transform: skew(30deg);
+        transform: rotate(360deg);
+        transition: all 0.5s ease-in-out;
+        transform: scale(3);
+        transform: translatex(40px);
+        transform: translatey(40px);
+        transform: translate(40px, 50px);
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="box">This is a box</div>
+    </div>
+  </body>
+</html>

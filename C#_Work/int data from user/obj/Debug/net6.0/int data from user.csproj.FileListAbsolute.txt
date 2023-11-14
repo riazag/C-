@@ -1,0 +1,15 @@
+C:\Users\RIAZ\helloWorld\C# work\int data from user\bin\Debug\net6.0\int data from user.exe
+C:\Users\RIAZ\helloWorld\C# work\int data from user\bin\Debug\net6.0\int data from user.deps.json
+C:\Users\RIAZ\helloWorld\C# work\int data from user\bin\Debug\net6.0\int data from user.runtimeconfig.json
+C:\Users\RIAZ\helloWorld\C# work\int data from user\bin\Debug\net6.0\int data from user.dll
+C:\Users\RIAZ\helloWorld\C# work\int data from user\bin\Debug\net6.0\int data from user.pdb
+C:\Users\RIAZ\helloWorld\C# work\int data from user\obj\Debug\net6.0\int data from user.csproj.AssemblyReference.cache
+C:\Users\RIAZ\helloWorld\C# work\int data from user\obj\Debug\net6.0\int data from user.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIAZ\helloWorld\C# work\int data from user\obj\Debug\net6.0\int data from user.AssemblyInfoInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\int data from user\obj\Debug\net6.0\int data from user.AssemblyInfo.cs
+C:\Users\RIAZ\helloWorld\C# work\int data from user\obj\Debug\net6.0\int data from user.csproj.CoreCompileInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\int data from user\obj\Debug\net6.0\int data from user.dll
+C:\Users\RIAZ\helloWorld\C# work\int data from user\obj\Debug\net6.0\refint\int data from user.dll
+C:\Users\RIAZ\helloWorld\C# work\int data from user\obj\Debug\net6.0\int data from user.pdb
+C:\Users\RIAZ\helloWorld\C# work\int data from user\obj\Debug\net6.0\int data from user.genruntimeconfig.cache
+C:\Users\RIAZ\helloWorld\C# work\int data from user\obj\Debug\net6.0\ref\int data from user.dll

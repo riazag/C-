@@ -1,0 +1,15 @@
+C:\Users\RIAZ\helloWorld\C# work\Methods\bin\Debug\net6.0\Methods.exe
+C:\Users\RIAZ\helloWorld\C# work\Methods\bin\Debug\net6.0\Methods.deps.json
+C:\Users\RIAZ\helloWorld\C# work\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+C:\Users\RIAZ\helloWorld\C# work\Methods\bin\Debug\net6.0\Methods.dll
+C:\Users\RIAZ\helloWorld\C# work\Methods\bin\Debug\net6.0\Methods.pdb
+C:\Users\RIAZ\helloWorld\C# work\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+C:\Users\RIAZ\helloWorld\C# work\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIAZ\helloWorld\C# work\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+C:\Users\RIAZ\helloWorld\C# work\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\Methods\obj\Debug\net6.0\Methods.dll
+C:\Users\RIAZ\helloWorld\C# work\Methods\obj\Debug\net6.0\refint\Methods.dll
+C:\Users\RIAZ\helloWorld\C# work\Methods\obj\Debug\net6.0\Methods.pdb
+C:\Users\RIAZ\helloWorld\C# work\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+C:\Users\RIAZ\helloWorld\C# work\Methods\obj\Debug\net6.0\ref\Methods.dll

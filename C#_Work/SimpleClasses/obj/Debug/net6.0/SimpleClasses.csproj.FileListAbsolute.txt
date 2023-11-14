@@ -1,0 +1,30 @@
+C:\Users\RIAZ\helloWorld\C# work\SimpleClasses\bin\Debug\net6.0\SimpleClasses.exe
+C:\Users\RIAZ\helloWorld\C# work\SimpleClasses\bin\Debug\net6.0\SimpleClasses.deps.json
+C:\Users\RIAZ\helloWorld\C# work\SimpleClasses\bin\Debug\net6.0\SimpleClasses.runtimeconfig.json
+C:\Users\RIAZ\helloWorld\C# work\SimpleClasses\bin\Debug\net6.0\SimpleClasses.dll
+C:\Users\RIAZ\helloWorld\C# work\SimpleClasses\bin\Debug\net6.0\SimpleClasses.pdb
+C:\Users\RIAZ\helloWorld\C# work\SimpleClasses\obj\Debug\net6.0\SimpleClasses.csproj.AssemblyReference.cache
+C:\Users\RIAZ\helloWorld\C# work\SimpleClasses\obj\Debug\net6.0\SimpleClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIAZ\helloWorld\C# work\SimpleClasses\obj\Debug\net6.0\SimpleClasses.AssemblyInfoInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\SimpleClasses\obj\Debug\net6.0\SimpleClasses.AssemblyInfo.cs
+C:\Users\RIAZ\helloWorld\C# work\SimpleClasses\obj\Debug\net6.0\SimpleClasses.csproj.CoreCompileInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\SimpleClasses\obj\Debug\net6.0\SimpleClasses.dll
+C:\Users\RIAZ\helloWorld\C# work\SimpleClasses\obj\Debug\net6.0\refint\SimpleClasses.dll
+C:\Users\RIAZ\helloWorld\C# work\SimpleClasses\obj\Debug\net6.0\SimpleClasses.pdb
+C:\Users\RIAZ\helloWorld\C# work\SimpleClasses\obj\Debug\net6.0\SimpleClasses.genruntimeconfig.cache
+C:\Users\RIAZ\helloWorld\C# work\SimpleClasses\obj\Debug\net6.0\ref\SimpleClasses.dll
+D:\C-\C#_Work\SimpleClasses\bin\Debug\net6.0\SimpleClasses.exe
+D:\C-\C#_Work\SimpleClasses\bin\Debug\net6.0\SimpleClasses.deps.json
+D:\C-\C#_Work\SimpleClasses\bin\Debug\net6.0\SimpleClasses.runtimeconfig.json
+D:\C-\C#_Work\SimpleClasses\bin\Debug\net6.0\SimpleClasses.dll
+D:\C-\C#_Work\SimpleClasses\bin\Debug\net6.0\SimpleClasses.pdb
+D:\C-\C#_Work\SimpleClasses\obj\Debug\net6.0\SimpleClasses.csproj.AssemblyReference.cache
+D:\C-\C#_Work\SimpleClasses\obj\Debug\net6.0\SimpleClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\C-\C#_Work\SimpleClasses\obj\Debug\net6.0\SimpleClasses.AssemblyInfoInputs.cache
+D:\C-\C#_Work\SimpleClasses\obj\Debug\net6.0\SimpleClasses.AssemblyInfo.cs
+D:\C-\C#_Work\SimpleClasses\obj\Debug\net6.0\SimpleClasses.csproj.CoreCompileInputs.cache
+D:\C-\C#_Work\SimpleClasses\obj\Debug\net6.0\SimpleClasses.dll
+D:\C-\C#_Work\SimpleClasses\obj\Debug\net6.0\refint\SimpleClasses.dll
+D:\C-\C#_Work\SimpleClasses\obj\Debug\net6.0\SimpleClasses.pdb
+D:\C-\C#_Work\SimpleClasses\obj\Debug\net6.0\SimpleClasses.genruntimeconfig.cache
+D:\C-\C#_Work\SimpleClasses\obj\Debug\net6.0\ref\SimpleClasses.dll

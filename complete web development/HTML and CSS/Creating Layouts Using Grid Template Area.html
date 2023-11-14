@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Creating Layouts Using Grid Template Area</title>
+  </head>
+  <style>
+    .container {
+      display: grid;
+      grid-gap: 0.5rem;
+      grid-template-areas:
+        "navbar navbar navbar navbar"
+        "section section section aside";
+    }
+    .item {
+      background: #b6f49c;
+      border: 2px solid black;
+    }
+    #navbar {
+      grid-area: navbar;
+      border-radius: 20px;
+    }
+    #navbar::before {
+      content: "";
+      background-color: #000;
+      height: 100%;
+      width: 100%;
+      left: 0px;
+      top: 0px;
+      position: absolute;
+      z-index: -1;
+      opacity: 0.7;
+    }
+    #navbar ul {
+      display: flex;
+    }
+    #navbar li {
+      list-style: none;
+      margin: 20px;
+      font-size: 20px;
+      cursor: pointer;
+    }
+    #navbar li:hover {
+      text-decoration: underline;
+      background: #f1eeee;
+      color: black;
+    }
+    #navbar ul a {
+      text-decoration: none;
+    }
+    #navbar img {
+      height: 50px;
+      width: 50px;
+      border-radius: 50%;
+    }
+    #section {
+      grid-area: section;
+    }
+    #aside {
+      grid-area: aside;
+    }
+  </style>
+  <body>
+    <div class="container">
+      <!-- <div id="navbar" class="item">Home About Contact us</div> -->
+      <div id="navbar" class="item">
+        <ul>
+          <img src="/complete web development/carLogo.jpeg" alt="" />
+          <li><a href="#"></a>Home</li>
+          <li><a href="#"></a>About</li>
+          <li><a href="#"></a>Services</li>
+          <li><a href="#"></a>contact us</li>
+        </ul>
+      </div>
+      <div id="section" class="item">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
+        libero maxime ab? Quaerat officiis deserunt esse sit vero error
+        cupiditate nobis nostrum fugiat. Sit, iusto. Error dicta, eveniet ullam
+        placeat eum expedita sint facere ipsa eligendi at autem distinctio, in
+        atque nam nulla ex commodi quibusdam recusandae ipsum dolorum? A.
+      </div>
+      <div id="aside" class="item">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem
+        doloribus tenetur iusto repellendus laudantium sunt ratione culpa harum
+        eveniet sapiente, modi dolorum aliquid quo. Autem, quisquam excepturi
+        rem voluptates voluptate illum ullam dolor ea maiores nisi delectus,
+        quasi iste totam blanditiis cum aliquid odio soluta!
+      </div>
+    </div>
+  </body>
+</html>

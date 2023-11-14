@@ -1,0 +1,8 @@
+C:\Users\RIAZ\helloWorld\C# work\if_else(decissions)\if_else(decissions)\bin\Debug\if_else(decissions).exe.config
+C:\Users\RIAZ\helloWorld\C# work\if_else(decissions)\if_else(decissions)\bin\Debug\if_else(decissions).exe
+C:\Users\RIAZ\helloWorld\C# work\if_else(decissions)\if_else(decissions)\bin\Debug\if_else(decissions).pdb
+C:\Users\RIAZ\helloWorld\C# work\if_else(decissions)\if_else(decissions)\obj\Debug\if_else(decissions).csproj.AssemblyReference.cache
+C:\Users\RIAZ\helloWorld\C# work\if_else(decissions)\if_else(decissions)\obj\Debug\if_else(decissions).csproj.SuggestedBindingRedirects.cache
+C:\Users\RIAZ\helloWorld\C# work\if_else(decissions)\if_else(decissions)\obj\Debug\if_else(decissions).csproj.CoreCompileInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\if_else(decissions)\if_else(decissions)\obj\Debug\if_else(decissions).exe
+C:\Users\RIAZ\helloWorld\C# work\if_else(decissions)\if_else(decissions)\obj\Debug\if_else(decissions).pdb

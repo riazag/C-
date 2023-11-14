@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>while, forEach, Do While Loops</title>
+  </head>
+  <body>
+    <div>while, forEach, Do While Loops</div>
+    <script>
+      for (let i = 0; i < 3; i++) {
+        console.log(i);
+      }
+      //   for each loop
+      let MRH = ["MUNAZA", "RIAZ", "HASSAN"];
+      MRH.forEach(function f(element) {
+        console.log(`Hello! ${element} how are you?`);
+      });
+
+      //  for of loop
+      for (const element of MRH) {
+        console.log(`Hello! ${element} how are you? in modren JS`);
+      }
+
+      // for in loop
+      let doctor = {
+        name: "Isahq",
+        Qualificatio: "BSN",
+        Age: 39,
+      };
+      for (key in doctor) {
+        console.log(`The ${key} of doctor is ${doctor[key]}`);
+      }
+    </script>
+  </body>
+</html>

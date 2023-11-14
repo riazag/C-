@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Animation and Transition</title>
+    <style>
+      .container {
+        background: #f39e9e;
+      }
+      .box1 {
+        height: 150px;
+        width: 150px;
+        background: #065fe4;
+        position: relative;
+        animation-name: ek;
+        animation-duration: 2s;
+        animation-iteration-count: 3;
+        animation-timing-function: ease-in;
+        animation-delay: 3s;
+        animation-fill-mode: forwards;
+        animation-direction: reverse;
+        animation-direction: alternate;
+      }
+      .box2 {
+        height: 150px;
+        width: 150px;
+        background: #408b5b;
+        transition-property: all;
+        transition-delay: 1.5s;
+        transition-duration: 3s;
+
+        /* Transition short hand property in one line */
+        /* transition: background-color 1s ease-in-out 2s; */
+        align-items: center;
+        justify-content: center;
+        display: flex;
+      }
+      .box2:hover {
+        background-color: yellow;
+        height: 400px;
+        width: 300px;
+        margin-top: 15px;
+        margin-left: 20px;
+        border-radius: 50px;
+      }
+      @keyframes ek {
+        from {
+          width: 150px;
+        }
+        to {
+          width: 500px;
+        }
+      }
+      /* @keyframes ek {
+        from {
+          width: 200px;
+        }
+
+        to {
+          width: 1400px;
+        }
+      } */
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="box1">This is Animated box</div>
+      <div class="box2">This is transition box</div>
+    </div>
+  </body>
+</html>

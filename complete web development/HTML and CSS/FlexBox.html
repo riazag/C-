@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flexbox</title>
+    <style>
+      .container {
+        border: 2px solid black;
+        height: 500px;
+        width: 100%;
+        display: flex;
+        /* by defualt row  */
+        /* flex-direction: column; */
+        /* flex-direction: column-reverse; */
+        /* flex-wrap: wrap; (Default value of flex-direction is no-wrap) */
+        /* flex-wrap: wrap-reverse; */
+
+        /* This is a shorthand for flex-direction: and flex-wrap: ;; */
+        /* flex-flow: row-reverse wrap; */
+
+        /* justify-content will justify the content in horizontal direction */
+        /* justify-content: center; */
+        /* justify-content: space-between; */
+        /* justify-content: space-evenly; */
+        /* justify-content: space-around; */
+
+        /* allign-item will justify the content in vertical direction */
+        /* align-items: center; */
+        /* align-items: flex-end; */
+        /* align-items: flex-start; */
+        /* align-items: stretch; */
+      }
+      .box {
+        width: 200px;
+        height: 200px;
+        border: 2px solid red;
+        background: #ee6bbc;
+        margin: 10px;
+        padding: 3px;
+      }
+      #box1 {
+        /* Flex properties for a flex item */
+        /* Higher the order, later it shows up in the container */
+        /* order: 2; */
+
+        /* flex-grow: 2;
+            flex-shrink: 2; */
+      }
+      #box2 {
+        /* flex-grow: 3;
+            flex-shrink: 3 ; */
+        flex-basis: 160px;
+        /* when flex-direction is set to row flex-basis: will control width */
+        /* when flex-direction is set to column flex-basis: will control height */
+      }
+      #box3 {
+        /* flex: 2 2 230px; */
+        /* align-self: flex-start;
+        align-self: flex-end;
+        align-self: center; */
+        align-self: flex-start;
+        align-self: flex-end;
+        align-self: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="box" id="box1">This is first box</div>
+      <div class="box" id="box2">This is second box</div>
+      <div class="box" id="box3">This is third box</div>
+      <div class="box" id="box4">This is fourth box</div>
+      <div class="box" id="box5">This is fifth box</div>
+      <div class="box" id="box6">This is sixth box</div>
+    </div>
+  </body>
+</html>

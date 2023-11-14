@@ -39,11 +39,10 @@ int main()
 
     for (int i = 0; i < 6; i++)
     {
-        if (alphabets[i] == 'C' && alphabets[i] == 'D' && alphabets[i] == 'E')
+        if (alphabets[i] == 'C' || alphabets[i] == 'D' || alphabets[i] == 'E')
         {
             cout << alphabets[i];
         }
-        
     }
     
 

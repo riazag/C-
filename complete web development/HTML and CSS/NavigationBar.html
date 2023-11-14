@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Navigation</title>
+    <style>
+      .navBar {
+        background: #112104;
+        border-radius: 20px;
+        width: 800px;
+      }
+
+      .navBar ul {
+        overflow: auto;
+      }
+      .navBar li {
+        float: left;
+        list-style: none;
+        padding: 9px 22px;
+        margin: 0px -1px;
+        border-radius: 5px;
+      }
+      .navBar a {
+        font-size: 16px;
+        color: white;
+        text-decoration: none;
+      }
+      .navBar li a:hover {
+        background: #3808d5;
+      }
+      .search {
+        float: right;
+        color: white;
+        padding: 5px;
+        margin: 5px;
+      }
+      .navBar input {
+        border: 2px solid black;
+        border-radius: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <nav class="navBar">
+        <ul>
+          <li><a href="">Home</a></li>
+          <li><a href="">Services</a></li>
+          <li><a href="">About</a></li>
+          <li><a href="">Contact</a></li>
+          <div class="search">
+            <input
+              type="text"
+              name="search"
+              id="searcg"
+              placeholder="Search this website"
+            />
+          </div>
+        </ul>
+      </nav>
+    </header>
+  </body>
+</html>

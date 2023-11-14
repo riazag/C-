@@ -1,0 +1,15 @@
+C:\Users\RIAZ\helloWorld\C# work\Whileiteration\bin\Debug\net6.0\Whileiteration.exe
+C:\Users\RIAZ\helloWorld\C# work\Whileiteration\bin\Debug\net6.0\Whileiteration.deps.json
+C:\Users\RIAZ\helloWorld\C# work\Whileiteration\bin\Debug\net6.0\Whileiteration.runtimeconfig.json
+C:\Users\RIAZ\helloWorld\C# work\Whileiteration\bin\Debug\net6.0\Whileiteration.dll
+C:\Users\RIAZ\helloWorld\C# work\Whileiteration\bin\Debug\net6.0\Whileiteration.pdb
+C:\Users\RIAZ\helloWorld\C# work\Whileiteration\obj\Debug\net6.0\Whileiteration.csproj.AssemblyReference.cache
+C:\Users\RIAZ\helloWorld\C# work\Whileiteration\obj\Debug\net6.0\Whileiteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIAZ\helloWorld\C# work\Whileiteration\obj\Debug\net6.0\Whileiteration.AssemblyInfoInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\Whileiteration\obj\Debug\net6.0\Whileiteration.AssemblyInfo.cs
+C:\Users\RIAZ\helloWorld\C# work\Whileiteration\obj\Debug\net6.0\Whileiteration.csproj.CoreCompileInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\Whileiteration\obj\Debug\net6.0\Whileiteration.dll
+C:\Users\RIAZ\helloWorld\C# work\Whileiteration\obj\Debug\net6.0\refint\Whileiteration.dll
+C:\Users\RIAZ\helloWorld\C# work\Whileiteration\obj\Debug\net6.0\Whileiteration.pdb
+C:\Users\RIAZ\helloWorld\C# work\Whileiteration\obj\Debug\net6.0\Whileiteration.genruntimeconfig.cache
+C:\Users\RIAZ\helloWorld\C# work\Whileiteration\obj\Debug\net6.0\ref\Whileiteration.dll

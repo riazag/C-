@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Boxmodel</title>
+    <style>
+      body {
+        background: #11303d;
+      }
+      * {
+        box-sizing: border-box;
+        margin: 0px;
+        padding: 0px;
+      }
+      .Container {
+        /* padding-top: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px; */
+        /* for all these above css we can write  this  */
+        /* padding = top right bottom left  */
+        padding: 10px 12px 15px 10px;
+        /* if you wnat to sit padding for top bottom same and left right same */
+        /*  y(top/bottom) x(left/right); */
+        padding: 34px 19px;
+        background: rgb(21, 128, 120);
+        border: 4px solid red;
+        margin: 10px 20px;
+        border-radius: 15px;
+        width: 530px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="Container">
+      <h3>This is Heading</h3>
+      <p id="fistpara">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia eligendi
+        quas aliquam cumque, iure dolorum vero aut pariatur soluta voluptatibus.
+      </p>
+    </div>
+    <div class="Container">
+      <h3>This is Heading</h3>
+      <p id="secondpara">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia eligendi
+        quas aliquam cumque, iure dolorum vero aut pariatur soluta voluptatibus.
+      </p>
+    </div>
+    <div class="Container">
+      <h3>This Heading</h3>
+      <p id="thirdpara">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia eligendi
+        quas aliquam cumque, iure dolorum vero aut pariatur soluta voluptatibus.
+      </p>
+    </div>
+  </body>
+</html>

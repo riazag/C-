@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Psuedo Selector</title>
+    <style>
+      #container {
+        background: #e6c2e9;
+        border: 3px solid rgb(218, 19, 85);
+        padding: 10px;
+        margin: 10px auto;
+        width: 666px;
+      }
+      .btn {
+        background: #34a8e7;
+        border: none;
+        padding: 5px;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 15px;
+        border: 2px solid black;
+      }
+      a {
+        text-decoration: none;
+      }
+      a:visited {
+        background: #15e6ab;
+      }
+      .btn:hover {
+        background: #89deed;
+      }
+      .btn:active {
+        background: #38eb0b;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container" class="cont">
+      <h3>This is Heading</h3>
+      <p id="firstpara">
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi
+        molestias, sequi dicta, repellendus corporis reiciendis ad hic iste
+        tempore fugit repudiandae ducimus nobis, Lorem ipsum dolor sit amet
+        consectetur adipisicing elit. Minus, numquam similique. Ut magnam
+        aspernatur adipisci eligendi, error voluptas ad placeat.voluptatibus
+        natus.
+      </p>
+      <a
+        href="https://www.youtube.com/watch?v=3lAl7RNqp1c&t=689s"
+        class="btn"
+        id="btn1"
+        >Read more...</a
+      >
+      <button class="btn" id="btn2">Contact US</button>
+    </div>
+  </body>
+</html>

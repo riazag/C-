@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Alert Promt and Confirm in jS</title>
+  </head>
+  <body>
+    <div>
+      <h1>Hello</h1>
+    </div>
+    <script>
+      //ALERT
+      /*  alert("Your Suscription will Expire Tommorow!");*/
+
+      //PROMT
+      /*   let Age = prompt("Enter your Age: ", "21");
+      if (Age >= 18) {
+        console.log(Age + "!\nWELCOME!\nYou are allowed to join the Club");
+      } else {
+        console.log(Age + "!\nYou are Under Age!");
+       }*/
+
+      //CONFIRM
+      let DeletePost = confirm("Are You Sure To delete the Post!");
+      if (DeletePost) {
+        console.log("Your post has been deleted successfully!");
+      } else {
+        console.log("Your post has Not been deleted!");
+      }
+    </script>
+  </body>
+</html>

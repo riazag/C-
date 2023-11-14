@@ -1,0 +1,15 @@
+C:\Users\RIAZ\helloWorld\C# work\ForIteration\bin\Debug\net6.0\ForIteration.exe
+C:\Users\RIAZ\helloWorld\C# work\ForIteration\bin\Debug\net6.0\ForIteration.deps.json
+C:\Users\RIAZ\helloWorld\C# work\ForIteration\bin\Debug\net6.0\ForIteration.runtimeconfig.json
+C:\Users\RIAZ\helloWorld\C# work\ForIteration\bin\Debug\net6.0\ForIteration.dll
+C:\Users\RIAZ\helloWorld\C# work\ForIteration\bin\Debug\net6.0\ForIteration.pdb
+C:\Users\RIAZ\helloWorld\C# work\ForIteration\obj\Debug\net6.0\ForIteration.csproj.AssemblyReference.cache
+C:\Users\RIAZ\helloWorld\C# work\ForIteration\obj\Debug\net6.0\ForIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RIAZ\helloWorld\C# work\ForIteration\obj\Debug\net6.0\ForIteration.AssemblyInfoInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\ForIteration\obj\Debug\net6.0\ForIteration.AssemblyInfo.cs
+C:\Users\RIAZ\helloWorld\C# work\ForIteration\obj\Debug\net6.0\ForIteration.csproj.CoreCompileInputs.cache
+C:\Users\RIAZ\helloWorld\C# work\ForIteration\obj\Debug\net6.0\ForIteration.dll
+C:\Users\RIAZ\helloWorld\C# work\ForIteration\obj\Debug\net6.0\refint\ForIteration.dll
+C:\Users\RIAZ\helloWorld\C# work\ForIteration\obj\Debug\net6.0\ForIteration.pdb
+C:\Users\RIAZ\helloWorld\C# work\ForIteration\obj\Debug\net6.0\ForIteration.genruntimeconfig.cache
+C:\Users\RIAZ\helloWorld\C# work\ForIteration\obj\Debug\net6.0\ref\ForIteration.dll

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>CSS Grid- Autofit and MinMax</title>
+    <style>
+      .grid {
+        display: grid;
+        grid-gap: 1rem;
+        /* grid-template-columns: 110px 110px 110px; */
+        /* justify-content: center; */
+        /* grid-template-columns: 1fr 1fr 1fr; */
+        grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+      }
+      .box {
+        border: 2px solid black;
+        background: #d0f180;
+        padding: 34px;
+      }
+    </style>
+    <body>
+      <div class="grid">
+        <div class="box">box-1</div>
+        <div class="box">box-2</div>
+        <div class="box">box-3</div>
+        <div class="box">box-4</div>
+        <div class="box">box-5</div>
+        <div class="box">box-6</div>
+        <div class="box">box-7</div>
+        <div class="box">box-8</div>
+        <div class="box">box-9</div>
+        <div class="box">box-10</div>
+        <div class="box">box-11</div>
+        <div class="box">box-12</div>
+      </div>
+    </body>
+  </head>
+</html>
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>CSS Grid</title>
+    <style>
+      .container {
+        display: grid;
+        grid-gap: 1rem;
+        /* grid-template-columns: 112px 112px 112px;  */
+        /* grid-template-columns: 1fr 1fr 1fr;  */
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        /* justify-content: center;  */
+      }
+      .box {
+        border: 2px solid black;
+        background-color: rgb(245, 187, 101);
+        padding: 34px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="box">Item-1</div>
+      <div class="box">Item-2</div>
+      <div class="box">Item-3</div>
+      <div class="box">Item-4</div>
+      <div class="box">Item-5</div>
+      <div class="box">Item-6</div>
+      <div class="box">Item-7</div>
+      <div class="box">Item-8</div>
+      <div class="box">Item-9</div>
+      <div class="box">Item-10</div>
+      <div class="box">Item-11</div>
+      <div class="box">Item-12</div>
+      <div class="box">Item-13</div>
+    </div>
+  </body>
+</html> -->
